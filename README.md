@@ -80,7 +80,7 @@ An important field that has made significant contributions to AI and Deep Learni
 
 In Artificial Intelligence, maths is very important. Without it, it's comparable to a human body without a soul. You can treat the mathematical concepts as a pay-as-you-go: whenever a foreign concept pops up, grab it and devour it! The guide above presents a minimal, yet comprehensive, resource to understand any kind of topic or concept in AI Algorithms.
 
-# 🙌 Contributing
+# Contributing
 
 If you think this roadmap can be improved, please do open a PR with any updates and submit any issues. We will continue to improve this, so you might want to consider watching/starring this repository to revisit it in the future.
 
