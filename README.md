@@ -86,7 +86,7 @@ Good luck!
 
 If you think this roadmap can be improved, please do open a PR with any updates and submit any issues. We will continue to improve this, so you might want to consider watching/starring this repository to revisit it in the future.
 
-> Have a look at the [contribution guide](./CONTRIBUTING.md) for how to update any of the roadmaps
+> Have a look at the [contribution guide](./CONTRIBUTING.md) for how to update the roadmap.
 
 * Open a pull request with improvements
 * Discuss ideas in issues
