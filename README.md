@@ -43,11 +43,11 @@ Knowledge of algebra is perhaps fundamental to math in general. Besides mathemat
 
 ## 2. Linear Algebra
 Linear Algebra is the primary mathematical computation tool in Artificial Intelligence and many areas of Science and Engineering. In this, 4 primary mathematical objects and their properties need to be understood:
-- [Scalars](http://www.sciencebits.com/vector_algebra) - A single number (can be real or natural).
-- [Vectors](http://www.sciencebits.com/vector_algebra) - A list of numbers, arranged in order. Consider them as points in space with each element representing the coordinate along an axis.
-- [Matrices](https://www.mathsisfun.com/algebra/matrix-introduction.html) - A 2-D array of numbers where each number is identified by 2 indices.
-- [Tensors](https://mathworld.wolfram.com/Tensor.html) - An N-D array of numbers (n>2), arranged on a regular grid with N-axes. Important in Machine Learning, Deep Learning and [Computer Vision](https://github.com/jasmcaus/caer)
-- [Eigenvectors & Eigenvalues](https://www.mathsisfun.com/algebra/eigenvalue.html) - Special vectors and their corresponding scalar quantity. Understand the significance and how to find them.
+- [Scalars](http://www.sciencebits.com/vector_algebra) - a single number (can be real or natural).
+- [Vectors](http://www.sciencebits.com/vector_algebra) - a list of numbers, arranged in order. Consider them as points in space with each element representing the coordinate along an axis.
+- [Matrices](https://www.mathsisfun.com/algebra/matrix-introduction.html) - a 2-D array of numbers where each number is identified by 2 indices.
+- [Tensors](https://mathworld.wolfram.com/Tensor.html) - an N-D array of numbers (N>2), arranged on a regular grid with N-axes. Important in Machine Learning, Deep Learning and [Computer Vision](https://github.com/jasmcaus/caer)
+- [Eigenvectors & Eigenvalues](https://www.mathsisfun.com/algebra/eigenvalue.html) - special vectors and their corresponding scalar quantity. Understand the significance and how to find them.
 - [Singular Value Decomposition](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm) - factorization of a matrix into 3 matrices. Understand the properties and applications. 
 - [Principal Component Analysis (PCA)](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0202) - understand the significance, properties, and applications.
 
@@ -63,7 +63,7 @@ Calculus deals with changes in parameters, functions, errors and approximations.
 ## 4. Statistics & Probability
 - [Basic Statistics](https://www.dummies.com/education/math/statistics/statistics-for-dummies-cheat-sheet/) - Mean, median, mode, variance, covariance etc
 - [Basic rules in probability](http://www.milefoot.com/math/stat/prob-rules.htm) - events (dependent & independent), sample spaces, conditional probability.
-- [Random variables](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library) - continuous * discrete, expectation, variance, distributions (joint & conditional).
+- [Random variables](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library) - continuous & discrete, expectation, variance, distributions (joint & conditional).
 - [Bayes' Theorem](https://blogs.scientificamerican.com/cross-check/bayes-s-theorem-what-s-the-big-deal/) - calculates validity of beliefs. Bayesian software helps machines recognize patterns and make decisions.
 - [Maximum Likelihood Estimation (MLE)](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1) - parameter estimation. Requires knowledge of fundamental probability concepts (joint probability and independence of events).
 - [Common Distributions](https://www.stat.tamu.edu/~twehrly/611/distab.pdf) - binomial, poisson, bernoulli, gaussian, exponential.
@@ -78,7 +78,9 @@ An important field that has made significant contributions to AI and Deep Learni
 
 --------------------------------------------------------------------------------
 
-In Artificial Intelligence, maths is very important. Without it, it's comparable to a human body without a soul. You can treat the mathematical concepts as a pay-as-you-go: whenever a foreign concept pops up, grab it and devour it! The guide above presents a minimal, yet comprehensive, resource to understand any kind of topic or concept in AI Algorithms.
+In Artificial Intelligence, maths is very important. Without it, it's comparable to a human body without a soul. You can treat the mathematical concepts as a pay-as-you-go: whenever a foreign concept pops up, grab it and devour it! The guide above presents a minimal, yet comprehensive, resource to understand any kind of topic or concept in AI.
+
+Good luck!
 
 # Contributing
 
