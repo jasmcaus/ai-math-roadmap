@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap">
-    <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Data Science Math Roadmap" width="96" height="96">
+  <a href="https://github.com/jasmcaus/ai-math-roadmap">
+    <img src="images/ai.jpg" alt="Data Science Math Roadmap" width="96" height="96">
   </a>
-  <h1 align="center">Data Science Math Roadmap</h1>
-  <p align="center">Your no-nonsense guide to the Math used in Data Science</p>
+  <h1 align="center">AI Math Roadmap</h1>
+  <p align="center">Your no-nonsense guide to the Math used in Artificial Intelligence</p>
   <p align="center">
-      <a href="http://bit.ly/ds-math-roadmap" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
+      <a href="http://bit.ly/ai-math-roadmap" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://github.com/jasmcaus" target="_blank"><img alt="Jason Dsouza" src="https://img.shields.io/badge/Author-jasmcaus-blue.svg" style="display: inherit;"/></a>
 <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
