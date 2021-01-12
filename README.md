@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jasmcaus/ai-math-roadmap">
-    <img src="images/ai.jpg" alt="Data Science Math Roadmap" width="96" height="96">
+    <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Data Science Math Roadmap" width="96" height="96">
   </a>
   <h1 align="center">AI Math Roadmap</h1>
   <p align="center">Your no-nonsense guide to the Math used in Artificial Intelligence</p>
