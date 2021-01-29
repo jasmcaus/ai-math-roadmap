@@ -6,7 +6,7 @@
   <p align="center">Your no-nonsense guide to the Math used in Artificial Intelligence</p>
   <p align="center">
       <a href="http://bit.ly/ai-math-roadmap" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/jasmcaus" target="_blank"><img alt="Jason Dsouza" src="https://img.shields.io/badge/Author-jasmcaus-blue.svg" style="display: inherit;"/></a>
+      <a href="https://github.com/jasmcaus" target="_blank"><img alt="Jason" src="https://img.shields.io/badge/Author-jasmcaus-blue.svg" style="display: inherit;"/></a>
 <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
   <br>
@@ -18,9 +18,9 @@
 A person working in the field of AI who doesn’t know math is like a politician who doesn’t know how to persuade. Both have an inescapable area to work upon!
 </blockquote>
 
-A week back, I wrote an article on [How to Get into Data Science in 2021](https://jasmcaus.medium.com) and since then I've received several emails from people all over the world asking ***just how much*** math is required in Data Science. 
+A while back, in 2021, I wrote an article on venturing into Data Science and since then I've received several emails from people all over the world asking ***just how much*** math is required in this field. 
 
-I won't lie: It's **a lot of math**. 
+I won't lie: It's **a lot**. 
 
 And this is one of the reasons that puts off many beginners. After much research and talks with several veterans in the field, I've compiled this no-nonsense guide that covers **all of the fundamentals of the math you'll need to know**. The concepts mentioned below are usually covered over several semesters in college, but I've boiled them down to the core principles that you can focus on. 
 
@@ -94,4 +94,4 @@ If you think this roadmap can be improved, please do open a PR with any updates 
 * Reach out with any feedback
 
 # Credits
-This roadmap was created by [Jason Dsouza](https://github.com/jasmcaus) and made publically available under the MIT License. 
+This roadmap is made publically available under the MIT License. 
